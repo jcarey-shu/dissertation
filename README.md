@@ -1,5 +1,7 @@
 # dissertation
 
+**Archived Jupyter Notebooks from J.Carey SHU Dissertation MSc Cyber Security 2022**
+
 Files in this directory acompany my dissertation work:
 
 **ML models with UMUDGA features, no WHOIS-history features:**
